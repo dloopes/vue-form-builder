@@ -10,7 +10,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "v-form-builder": "^1.4.1-rc2",
-    "vue": "^2.6.11"
+    "vue": "^2.6.11",
+    "vue-the-mask": "^0.11.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.4.0",
